@@ -2547,5 +2547,35 @@
 "v": 3,
 "scores": {},
 "scores_checked": "2026-11-09"
+},
+"沙丘第二部": {
+"tries": 1,
+"v": 3,
+"cast": "辛蒂亞,提摩西夏勒梅",
+"genre": "科幻",
+"release": "2026-11-13",
+"scores": {},
+"scores_checked": "2026-11-11"
+},
+"沙丘": {
+"tries": 1,
+"v": 3,
+"cast": "辛蒂亞,提摩西夏勒梅",
+"genre": "科幻",
+"release": "2026-11-13",
+"scores": {
+"imdb_id": "tt31378509",
+"year": "2026"
+},
+"scores_checked": "2026-11-11"
+},
+"應援特別場讓子彈飛": {
+"tries": 1,
+"v": 3,
+"cast": "周潤發 ,劉嘉玲,姜文,葛優",
+"genre": "劇情",
+"release": "2026-11-14",
+"scores": {},
+"scores_checked": "2026-11-11"
 }
 }
