@@ -754,10 +754,10 @@
 "scores": {
 "imdb_id": "tt14521412",
 "year": "2027",
-"imdb": "7.5",
-"imdb_votes": "331"
+"imdb": "7.4",
+"imdb_votes": "377"
 },
-"scores_checked": "2026-11-14",
+"scores_checked": "2026-11-19",
 "trailer": "https://www.youtube.com/watch?v=lGTVeQwRFOM"
 },
 "鋼之鍊金術師嘆息之丘的聖星": {
@@ -2395,7 +2395,7 @@
 "imdb_id": "tt40258746",
 "year": "2026"
 },
-"scores_checked": "2026-11-05"
+"scores_checked": "2026-11-19"
 },
 "exoplanet6exhorizondot現場直播": {
 "tries": 3,
@@ -2851,5 +2851,13 @@
 "year": "2026"
 },
 "scores_checked": "2026-11-19"
+},
+"你和我的房間這種感覺": {
+"tries": 1,
+"v": 3
+},
+"btsworldtourariranginkaohsiung": {
+"tries": 1,
+"v": 3
 }
 }
