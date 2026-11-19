@@ -2495,7 +2495,14 @@
 },
 "廚師發辦": {
 "tries": 3,
-"v": 3
+"v": 3,
+"scores": {
+"imdb_id": "tt38039353",
+"year": "2026",
+"imdb": "6.8",
+"imdb_votes": "5"
+},
+"scores_checked": "2026-11-20"
 },
 "黑牢城": {
 "tries": 1,
@@ -2854,7 +2861,9 @@
 },
 "你和我的房間這種感覺": {
 "tries": 3,
-"v": 3
+"v": 3,
+"scores": {},
+"scores_checked": "2026-11-20"
 },
 "btsworldtourariranginkaohsiung": {
 "tries": 3,
