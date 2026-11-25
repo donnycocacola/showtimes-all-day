@@ -2929,5 +2929,45 @@
 "year": "2018"
 },
 "scores_checked": "2026-11-25"
+},
+"庫洛魔法使劇場版被封印的卡片": {
+"tries": 1,
+"v": 3,
+"genre": "卡通動畫",
+"release": "2026-11-27",
+"scores": {},
+"scores_checked": "2026-11-25"
+},
+"神隱少女": {
+"tries": 1,
+"v": 3,
+"genre": "卡通動畫",
+"release": "2026-11-27",
+"scores": {},
+"scores_checked": "2026-11-25"
+},
+"窗外有藍天4k全新修復": {
+"tries": 1,
+"v": 3,
+"genre": "劇情",
+"release": "2026-11-27",
+"scores": {
+"imdb_id": "tt39067552",
+"year": "2025"
+},
+"scores_checked": "2026-11-25"
+},
+"限定場黑球": {
+"tries": 1,
+"v": 3,
+"genre": "劇情",
+"release": "2026-11-20",
+"scores": {
+"imdb_id": "tt35511966",
+"year": "2026",
+"imdb": "7.0",
+"imdb_votes": "820"
+},
+"scores_checked": "2026-11-25"
 }
 }
