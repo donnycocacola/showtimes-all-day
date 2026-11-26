@@ -386,7 +386,7 @@
 "imdb_id": "tt38859765",
 "year": "2025"
 },
-"scores_checked": "2026-11-22",
+"scores_checked": "2026-11-26",
 "trailer": "https://www.youtube.com/watch?v=eA5Df9MYrBI"
 },
 "不存在的罪人": {
@@ -533,10 +533,9 @@
 "imdb_id": "tt2582802",
 "year": "2014",
 "imdb": "8.5",
-"imdb_votes": "1,185,509",
-"rt": "94%"
+"imdb_votes": "1,185,509"
 },
-"scores_checked": "2026-11-14",
+"scores_checked": "2026-11-26",
 "trailer": "https://www.youtube.com/watch?v=nPD4ZIi3B8A"
 },
 "加速世界劇場版infiniteburst": {
@@ -2971,7 +2970,7 @@
 "scores_checked": "2026-11-25"
 },
 "窗外有藍天": {
-"tries": 2,
+"tries": 3,
 "v": 3
 },
 "nmixx1stworldtour": {
@@ -3008,5 +3007,9 @@
 "year": "2027"
 },
 "scores_checked": "2026-11-26"
+},
+"排球少年垃圾場的決戰": {
+"tries": 1,
+"v": 3
 }
 }
