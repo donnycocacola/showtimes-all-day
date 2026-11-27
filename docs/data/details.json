@@ -434,7 +434,7 @@
 "imdb_id": "tt39026173",
 "year": "2026"
 },
-"scores_checked": "2026-11-22",
+"scores_checked": "2026-11-27",
 "trailer": "https://www.youtube.com/watch?v=Dm5dsOdXFfg"
 },
 "野獸之心": {
@@ -499,7 +499,7 @@
 "imdb": "8.0",
 "imdb_votes": "327,986"
 },
-"scores_checked": "2026-11-22",
+"scores_checked": "2026-11-27",
 "trailer": "https://www.youtube.com/watch?v=tRSpGvNsukY"
 },
 "高年級實習生": {
@@ -595,10 +595,9 @@
 "imdb_id": "tt23289160",
 "year": "2023",
 "imdb": "7.6",
-"imdb_votes": "232,174",
-"rt": "99%"
+"imdb_votes": "232,174"
 },
-"scores_checked": "2026-11-02"
+"scores_checked": "2026-11-27"
 },
 "復仇者聯盟終局之戰": {
 "tries": 1,
@@ -3042,5 +3041,13 @@
 "imdb_votes": "1,820"
 },
 "scores_checked": "2026-11-27"
+},
+"逃": {
+"tries": 1,
+"v": 3
+},
+"下一站天國": {
+"tries": 1,
+"v": 3
 }
 }
